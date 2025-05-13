@@ -38,5 +38,5 @@ $ python app.py
 
 ## Designed & Developed with :sparkling_heart: by
 * [Sourav Louha](https://github.com/souravlouha)
-* [Sourav Louha](https://github.com/Debajyoti137)
+* [Debajyoti Chowdhury ](https://github.com/Debajyoti137)
 
